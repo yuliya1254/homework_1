@@ -1,0 +1,22 @@
+
+# User-specific stuff
+.idea/
+.build/
+
+!**/srs/main/**
+!**/srs/test/**
+
+.idea
+*.iml
+*.iws
+*.iml
+
+### Gradle ###
+.gradle
+
+*.log
+
+
+
+
+
